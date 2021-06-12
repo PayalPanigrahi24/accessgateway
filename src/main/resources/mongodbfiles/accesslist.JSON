@@ -1,0 +1,4 @@
+[
+  { "_id" : 8752, "username" : "Divine Comedy", "password" : "1234", "level" : 1 },
+  { "_id" : 7000, "username" : "The Odyssey", "password" : "Homer123", "level" : 2 }
+]
